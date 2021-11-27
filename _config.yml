@@ -3,7 +3,7 @@ remote_theme: epidrome/cover-card@main
 
 # Title and tag line
 title: TPSA - Theoretical Physics Student Association
-description: The official website of the TPSA (under construction)
+description: The official website of the TPSA
 
 # Images
 avatar: 'logo.png'
