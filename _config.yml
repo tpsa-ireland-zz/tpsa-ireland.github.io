@@ -2,6 +2,8 @@
 title: TPSA - Theoretical Physics Student Association
 description: The official website of the TPSA
 
+paginate: 5
+
 # Images
 avatar: 'logo.png'
 background: '0302063~medium.jpg'
