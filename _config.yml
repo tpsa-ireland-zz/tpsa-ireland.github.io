@@ -2,7 +2,10 @@
 title: TPSA - Theoretical Physics Student Association
 description: The official website of the TPSA
 
+# blog
 paginate: 5
+paginate_path: "/blog/page:num/"
+blog_title: "TPSA Blog"
 
 # Images
 avatar: 'logo.png'
