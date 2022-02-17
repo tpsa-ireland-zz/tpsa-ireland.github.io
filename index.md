@@ -18,4 +18,4 @@ Academic and career oriented interviews: We have interviewed graduates of Theore
 
 ## How can I get involved?
 
-If you are a student in TCD you can attend one of our weekly seminars (the times are announced in advanced on Instagram) or sign up for our mailing list. If you aren't a student in TCD send us an email at [tpsa.ire@gmail.com](mailto:tpsa.ire@gmail.com).
+If you are a student in TCD you can attend one of our weekly seminars (the times are announced in advance on Instagram) or sign up for our mailing list. If you aren't a student in TCD send us an email at [tpsa.ire@gmail.com](mailto:tpsa.ire@gmail.com).
