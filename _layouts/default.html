@@ -8,8 +8,13 @@
         </style>
     </head>
     <body>
-          {% include header.html %}
-          {% include social.html %}
+        <div id="landing">
+            {% include header.html %}
+            {% include social.html %}
+            <p class="acknowledgements">The background image of the Omega Nebula courtesy of NASA.</p>
+        </div>
+        <dix id="main">
           {{ content }}
+        </dix>
     </body>
 </html>
