@@ -19,3 +19,30 @@ Academic and career oriented interviews: We have interviewed graduates of Theore
 ## How can I get involved?
 
 If you are a student in TCD you can attend one of our weekly seminars (the times are announced in advance on Instagram) or sign up for our mailing list. If you aren't a student in TCD send us an email at [tpsa.ire@gmail.com](mailto:tpsa.ire@gmail.com).
+
+## Who is on the committee?
+
+### Conor Ryan - Auditor
+Handles long and short term planning. Is the defacto chairperson of the association.
+
+### Seán S. Ffrench - Secretary
+Coördinates all aspects of the association, schedules events and other administrative tasks required.
+
+### Ruaidhrí Campion - Treasurer
+In charge of the associations finances and ensuring due diligence is taken.
+
+### Jan Becker & Josh Mooney Mercadal - Lecture Series Coördinator
+In charge of creating new material for our online library that's currently under construction.
+
+### Mitchell - Weekly seminar director & founder
+Founder and currently running the weekly seminars.
+
+### Pratheek Kishore - ITPO Captain
+In charge of preparing a team to eventually compete in the ITPO.
+
+### Oisín O'Sullivan - Maths Student Representative
+Represents the interest of students of pure mathematics.
+
+### Luke Johnston - PRO
+Our public relations officer, in charge of managing our social media and other public communications.
+
