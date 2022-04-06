@@ -12,7 +12,7 @@ Academic and career oriented interviews: We have interviewed graduates of Theore
 
 *We have begun* training so that TCD may compete at the [International Theoretical Physics Olympiad](http://thworldcup.com/about2022). This will put Theoretical Physics at TCD at the same level as MIT, Harvard, Moscow for the world to see.
 
-*We have begun* to put together a TPSA online library wherein students record pedagogical walkthroughs of key textbooks in the field in TCD's Schrodinger lecture theatre. This is an opportunity for students to concretely put their name to published material, and well as enhance support for students regarding difficult concepts. We believe in not gate-keeping intuition and understanding, and so these lectures will be publicly available on Youtube. We have 60+ hours recorded, currently in the editing phase. 
+*We have begun* to put together a TPSA online library wherein students record pedagogical walkthroughs of key textbooks in the field in TCD's Schrodinger lecture theatre. This is an opportunity for students to concretely put their name to published material, and well as enhance support for students regarding difficult concepts. We believe in not gate-keeping intuition and understanding, and so these lectures will be publicly available on [Youtube](https://www.youtube.com/channel/UCAhMHA7C3mo0MaASsM4Nweg). We have 60+ hours recorded, currently in the editing phase. 
 
 *We hope to* leverage student internship experience to deliver workshops in TCD next summer on machine learning and quantum information, subjects currently outside of physics curricula that is extremely relevant in the modern research landscape.
 
