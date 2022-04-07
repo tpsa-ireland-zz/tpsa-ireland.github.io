@@ -43,7 +43,7 @@ h1 {
     margin: -10px 0;
 }
 
-p {
+p, li {
     color: white
 }
 
@@ -63,12 +63,12 @@ h3 {
     background-color: rgba(0, 0, 0, 0);
     text-align: center;
 }
-ul {
+#landing ul {
     list-style: none;
     padding: 0;
     text-align: center;
 }
-li {
+#landing li {
     border-radius: 100%;
     border: 2px transparent;
     color: white;
@@ -78,7 +78,7 @@ li {
     width: 65px;
     height: 65px;
 }
-li:hover {
+#landing li:hover {
     color: white;
     text-decoration: none;
     -webkit-transition: 500ms;
@@ -105,10 +105,10 @@ li:hover {
 }
 
 @media (max-width: 450px) {
-ul {
+#landing ul {
     text-align: center;
 }
-li {
+#landing li {
     border-radius: 0%;
     border: none;
     color: white;
@@ -120,7 +120,7 @@ li {
     height: auto;
     width: auto;
 }
-li:hover {
+#landing li:hover {
     background-color: none;
     transition: none;
 }

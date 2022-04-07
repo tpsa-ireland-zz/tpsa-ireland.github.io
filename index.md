@@ -1,3 +1,10 @@
+<ul class="navbar">
+  <li><a href="default.asp">Home</a></li>
+  <li><a href="news.asp">News</a></li>
+  <li><a href="contact.asp">Contact</a></li>
+  <li><a href="about.asp">About</a></li>
+</ul> 
+
 ## Who are we?
 
 We are a student organisation founded in 2019 aiming solely at enhancing student performance along academic, industry, and communicative axes simultaneously. 
@@ -21,6 +28,18 @@ Academic and career oriented interviews: We have interviewed graduates of Theore
 If you are a student in TCD you can attend one of our weekly seminars (the times are announced in advance on Instagram) or sign up for our mailing list. If you aren't a student in TCD send us an email at [tpsa.ire@gmail.com](mailto:tpsa.ire@gmail.com).
 
 ## Who is on the committee?
+
+- Conor Ryan - Auditor - [ryanc70@tcd.ie](mailto:ryanc70@tcd.ie)
+- Seán S. Ffrench - Secretary - [ffrencse@tcd.ie](mailto:ffrencse@tcd.ie)
+- Ruaidhrí Campion - Treasurer
+- Jan Becker & Josh Mooney Mercadal - Lecture Series Coördinator
+- Mitchell - Weekly seminar director & founder 
+- Luke Johnston - PRO
+- Pratheek Kishore - ITPO Captain 
+- Oisín O'Sullivan - Maths Student Representative
+
+
+
 
 ### Conor Ryan - Auditor - 4th year TP
 Charged with keeping the long and short term planning in order to ensure the vision and goals of the association are achieved.
