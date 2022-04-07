@@ -1,3 +1,18 @@
+
+
+.hidable {
+    display: none;
+}
+input[type=radio]:checked ~ .hidable {
+    display: block;
+}
+
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
 body {
     font-family: Helvetica,Arial,sans-serif;
     background-color: rgba(0, 0, 0, 0);
